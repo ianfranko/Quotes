@@ -1,7 +1,7 @@
 
 # Quotes
-#### Quotes, March 25th 2019
-#### By **Peter Wachira**
+#### Quotes, March 26th 2021
+#### By **Odundo Ian Frank**
 
 ## Description
 - An application that enables users to add quotes,delete quotes.You can also be able to see already existing and there author and can upvote and downvote quotes.
@@ -17,13 +17,13 @@
 
 ## Setup/Installation requirements
 
-- Clone  or download and unzip the repository from github, [https://github.com/peter-wachira/Quotes-/](https://github.com/peter-wachira/Quotes-.git).
+- Clone  or download and unzip the repository from github, [https://github.com/ianfranko/Quotes.git](https://github.com/ianfranko/Quotes.git).
 - If you have git Use this command `git clone *` to clone the project.
 - Run ng serve from your terminal
 
 ## Live Demo
 To view the page click on the link below
-* [https://peter-wachira.github.io/Quotes-/](*)
+* [https://ianfranko.github.io/Quotes/](*)
 
 ## Technologies Used
 - Angular CLI
@@ -38,4 +38,4 @@ To view the page click on the link below
 - Make contributions to the code.
 
 ## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Peter Wachira](https://github.com/peter-wachira)
+- This project is licensed under the MIT Open Source license Copyright (c) 2020. [Odundo Ian Frank](https://github.com/ianfranko)
